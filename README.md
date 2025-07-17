@@ -1,7 +1,11 @@
 # TuyulTronik
 ![''](image/header.png)
 - 🔭 I’m currently working on **<ins>FLUTTER</ins>**
-- 🌱 I’m currently learning  :heart_eyes:  **MQL4**,**MQL5**,**Python**, **Kotlin**
+- 🌱 I’m currently learning  
+   *    **<ins>MQL4<ins>**
+   * **<ins>MQL5<ins>** 
+   * **<ins>Python<ins>**
+   * **<ins>Kotlin<ins>**
 <!--
 ###
 [![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,py&theme=light)](https://skillicons.dev)
